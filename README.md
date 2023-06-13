@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+A resume builder react.js project with submit button functionality and a view button to view the final details of the added details to the resume.
+
+Please intall bootstrap before running the npm file.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
